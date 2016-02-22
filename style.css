@@ -1,0 +1,13 @@
+.main-nav i {
+    content: "";
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
+    background: url("eye.svg");
+    display: block;
+    float: left;
+    height: 100px;
+    margin-right: 50px;
+    text-indent: -9999px;
+    width: 100px;
+  }
