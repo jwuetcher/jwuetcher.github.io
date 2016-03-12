@@ -1,14 +1,13 @@
 # Site settings
-title: Caitlin Weber
-email: caitlin@caitlinweber.com
+title: Justin Wuetcher
+email: me@justinwuetcher.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to the portfolio of Caitlin Weber
+  Welcome
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://caitlinweber.com" # the base hostname & protocol for your site
-twitter_username: caitlinweber
-github_username:  cweber
-dribbble_username:  cweber
-linkedin_username:  cweber
+url: "jwuetcher.github.io" # the base hostname & protocol for your site
+twitter_username: jwuetcher
+github_username:  jwuetcher
+linkedin_username:  justinwuetcher
 
 # Build settings
 markdown: kramdown
@@ -16,5 +15,3 @@ markdown: kramdown
 
 
 port: 5000
-
-
