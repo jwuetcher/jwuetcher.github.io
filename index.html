@@ -1,23 +1,49 @@
 ---
 layout: default
+img: market-me.jpg
 ---
 
-<div class="home">
-  <h1 class="page-heading">Posts</h1>
+<div class="home content">
+<article>
+<!-- 	<header class="page-heading">
+		<h1>About</h1>
+		<div class="clear"></div>
+	</header> -->
+	<a href="{{ post.url | prepend: site.baseurl }}">
+        <img class="img-responsive" src="{{ "/img/" | prepend: site.baseurl }}{{ page.img }}">
+    </a>
+	<div class="prose two-col wide">
+		<p>Justin is a social impact designer synthesizing his experience with traditional sociology, research methods, and graphic design into one powerful practice. This practice connects a variety of stakeholders, encouraging collaboration between parties to create solutions that are uniquely and equally powerful, desirable, and useful. He works to be an innovator and leader in the emerging field of social impact design, exploring new strategies for intercultural communication, community empowerment, and education.</p>
+		<p>Design research aims to shed light on human behavior, to better understand the world and the specifics of the cultures we live in. As a trained social scientist I have experience in both quantitative & qualitative research methodologies including interviewing & ethnography. When applied, this research builds a basis for human and user centered design.</p>
+		<p>I’ve lead diverse groups of stakeholders and students through understanding the role of  design, social research, and design thinking exercises and have helped them develop solutions to complex problems. My areas of specialization include research methodology, socially responsive design, and community empowerment.</p>
+		<p>As a professional designer, I work in a variety of the media to create a visual story. I am constantly seeking new techniques to apply to my visual tool belt to push my content one step further. My background is in graphic design and photojournalism, with recent work in data visualization, prototyping, and public awareness campaigns.</p>
+		<p><small style="display: block; border-top: 1px dashed #ffffff; padding-top: 20px;">I am currently available for small freelance projects as I pursue my <a target="_blank" href="http://micasocialdesign.com/ma">MA in Social Design at MICA</a>.</small>
+		</p>
+	</div>
+	<div class="poetry two-col narrow">
+		<h2 class="beta">What I do</h2>
+		<h3 class="gamma">Skills</h3>
+		<ul>
+			<li>Social Imact design</li>
+			<li>Design Research</li>
+			<li>Design Strategy</li>
+			<li>Graphic Design</li>
+			<li>Facilitation</li>
+			<li>Curriculum Design</li>
+			<li>Scholarly Research</li>
+		</ul>
+		<h3 class="gamma">Interests</h3>
+		<ul>
+			<li>Higher Education</li>
+			<li>Intercultural Communicatino</li>
+			<li>Deaf Culture</li>
+			<li>Language</li>
+		</ul>
+	</div>
+	<div class="clear"></div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
 
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+</article>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
