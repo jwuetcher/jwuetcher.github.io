@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Portfolio</title>
+    <description>Justin Wuetcher&#39;s Portfolio</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 18 Apr 2016 20:05:06 -0400</pubDate>
+    <lastBuildDate>Mon, 18 Apr 2016 20:05:06 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.0</generator>
+    
+      <item>
+        <title>  </title>
+        <description>
+</description>
+        <pubDate>Thu, 28 Aug 2014 00:00:00 -0400</pubDate>
+        <link>/web%20design,%20photography,%20wordpress/2014/08/28/Westmount-Gastro-Pub/</link>
+        <guid isPermaLink="true">/web%20design,%20photography,%20wordpress/2014/08/28/Westmount-Gastro-Pub/</guid>
+        
+        
+        <category>Web Design, Photography, Wordpress</category>
+        
+      </item>
+    
+      <item>
+        <title>  </title>
+        <description>
+</description>
+        <pubDate>Thu, 28 Aug 2014 00:00:00 -0400</pubDate>
+        <link>/web%20design,%20wordpress,%20responsive%20design/2014/08/28/Pool-Party-Plus/</link>
+        <guid isPermaLink="true">/web%20design,%20wordpress,%20responsive%20design/2014/08/28/Pool-Party-Plus/</guid>
+        
+        
+        <category>Web Design, Wordpress, Responsive Design</category>
+        
+      </item>
+    
+      <item>
+        <title> </title>
+        <description>
+</description>
+        <pubDate>Thu, 28 Aug 2014 00:00:00 -0400</pubDate>
+        <link>/web%20design,%20jekyll,%20responsive%20design/2014/08/28/My-Portfolio/</link>
+        <guid isPermaLink="true">/web%20design,%20jekyll,%20responsive%20design/2014/08/28/My-Portfolio/</guid>
+        
+        
+        <category>Web Design, Jekyll, Responsive Design</category>
+        
+      </item>
+    
+      <item>
+        <title> </title>
+        <description>
+</description>
+        <pubDate>Fri, 15 Aug 2014 00:00:00 -0400</pubDate>
+        <link>/angular,%20responsive%20design/2014/08/15/Invasive-Fish/</link>
+        <guid isPermaLink="true">/angular,%20responsive%20design/2014/08/15/Invasive-Fish/</guid>
+        
+        
+        <category>Angular, Responsive Design</category>
+        
+      </item>
+    
+      <item>
+        <title>Structur3d </title>
+        <description>
+</description>
+        <pubDate>Fri, 15 Aug 2014 00:00:00 -0400</pubDate>
+        <link>/web%20design,%20javascript/2014/08/15/Structur3D-Printing/</link>
+        <guid isPermaLink="true">/web%20design,%20javascript/2014/08/15/Structur3D-Printing/</guid>
+        
+        
+        <category>Web Design, Javascript</category>
+        
+      </item>
+    
+      <item>
+        <title>  And </title>
+        <description>
+</description>
+        <pubDate>Fri, 15 Aug 2014 00:00:00 -0400</pubDate>
+        <link>/photography,%20videography,%20graphics%20design/2014/08/15/Product-Photography-and-Video/</link>
+        <guid isPermaLink="true">/photography,%20videography,%20graphics%20design/2014/08/15/Product-Photography-and-Video/</guid>
+        
+        
+        <category>Photography, Videography, Graphics Design</category>
+        
+      </item>
+    
+      <item>
+        <title> </title>
+        <description>
+</description>
+        <pubDate>Fri, 15 Aug 2014 00:00:00 -0400</pubDate>
+        <link>/ruby%20on%20rails,%20google%20maps,%20responsive%20design/2014/08/15/Fish-Map/</link>
+        <guid isPermaLink="true">/ruby%20on%20rails,%20google%20maps,%20responsive%20design/2014/08/15/Fish-Map/</guid>
+        
+        
+        <category>Ruby on Rails, Google Maps, Responsive Design</category>
+        
+      </item>
+    
+  </channel>
+</rss>

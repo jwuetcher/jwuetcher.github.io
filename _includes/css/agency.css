@@ -634,13 +634,21 @@ section h3.section-subheading {
     }
 }
 
-.mica-logo{
+.mica-logo {
   background-color: white;
+  border-radius: 100%;
   position: relative;
   top: 8px;
   left: 8px;
   width: 140px;
   height: 140px;
+}
+
+.mica-logo img {
+  position: relative;
+  top: 48px;
+  left: 8px;
+  width: 90%
 }
 
 .team-member {
